@@ -1,0 +1,3 @@
+Câu lệnh để cài đặt email và name:
+git config --global user.name "PW-Bella"
+git config --global user.email "bellantn93@gmail.com"
